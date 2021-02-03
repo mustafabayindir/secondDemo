@@ -1,0 +1,1 @@
+güya Person objesi

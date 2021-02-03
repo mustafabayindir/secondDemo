@@ -1,0 +1,1 @@
+güya Customer Objesi
